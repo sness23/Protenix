@@ -15,7 +15,7 @@ rdkit==2025.09.6
 biopython==1.85
 biotite==1.4.0
 modelcif==1.4
-gemmi==0.6.7
+gemmi==0.7.5
 pdbeccdutils==1.0.0
 fair-esm==2.0.0
 scikit-learn==1.7.1
